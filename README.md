@@ -21,7 +21,9 @@ The proposed system consists of:
 - **Facial Emotion Classifier (Image CNN)**
 - **Speech Emotion Classifier (Audio CNN)**
 
-These models operate independently and their outputs are compared to determine the final predicted emotion from a video source.
+These models operate independently and their outputs are compared to determine the final predicted emotion from a video source. Our workflow is shown below:
+
+<img width="1027" alt="Screenshot 2025-07-04 at 6 26 39 PM" src="https://github.com/user-attachments/assets/fd553fa5-ca20-400e-ae19-e31c6947d24f" />
 
 ---
 
